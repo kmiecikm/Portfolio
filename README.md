@@ -8,3 +8,11 @@ My name is **Magdalena Kmiecik**. I am master of of Civil Engineering. Recently 
 * SoapUI
 * Postman
 * MySQL Workbench
+# Tech Skills
+* Knowledge in the field of syblabus ISTQB Foundation Level
+* Test Plans & Cases
+* Creating reports
+* Reporting bugs
+* Scrum methodology
+* SQL
+* Knowledge of UX/UI design
