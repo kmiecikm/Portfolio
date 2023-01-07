@@ -18,3 +18,5 @@ My name is **Magdalena Kmiecik**. I am master of of Civil Engineering. Recently 
 * Knowledge of UX/UI design
 # Certificates and Diplomas
 * [ISTQB and The IT School Coders Lab](https://github.com/kmiecikm/Diplomas)
+# My test case examples
+* [Test cases for Coders Guru](https://github.com/kmiecikm/Testing/tree/main/Test%20cases%20in%20testlink)
