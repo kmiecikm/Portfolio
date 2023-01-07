@@ -20,6 +20,7 @@ My name is **Magdalena Kmiecik**. I am master of Civil Engineering. Recently I h
 * Reporting bugs
 * Scrum methodology
 * [SQL](https://github.com/kmiecikm/SQL)
+* [API testing](https://github.com/kmiecikm/API-Testing)
 * Knowledge of UX/UI design
 # Certificates and Diplomas
 * [ISTQB Certficate and IT School Coders Lab Diploma](https://github.com/kmiecikm/Diplomas)
