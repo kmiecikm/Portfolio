@@ -20,3 +20,5 @@ My name is **Magdalena Kmiecik**. I am master of of Civil Engineering. Recently 
 * [ISTQB and The IT School Coders Lab](https://github.com/kmiecikm/Diplomas)
 # My test case examples
 * [Test cases for Coders Guru](https://github.com/kmiecikm/Testing/tree/main/Test%20cases%20in%20testlink)
+# My test plans
+* [Test plan of Coders Guru](https://github.com/kmiecikm/Testing/blob/main/Plan%20testów%20Coders%20Guru%20-%20Magda%20Kmiecik.pdf)
