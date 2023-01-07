@@ -17,4 +17,4 @@ My name is **Magdalena Kmiecik**. I am master of of Civil Engineering. Recently 
 * SQL
 * Knowledge of UX/UI design
 # Diplomas
-* [ISTQB and The IT School Coders Lab] (https://github.com/kmiecikm/Diplomas)
+* [ISTQB and The IT School Coders Lab](https://github.com/kmiecikm/Diplomas)
