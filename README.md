@@ -29,7 +29,7 @@ My name is **Magdalena Kmiecik**. I am master of of Civil Engineering. Recently 
 * Smilgin R., Zawód Tester, PWN, Warszawa 2018
 * Roman A. and Stapp L., Certyfikowany tester ISTQB, Helion, Gliwice 2020
 * Kuang C. and Fabricant R., User Friendly, Karakter, Kraków 2022 (Usability testing book)
-* Krug S.,  Nie każ mi myśleć, Helion, Gliwice 2022
+* Krug S.,  Nie każ mi myśleć, Helion, Gliwice 2022 (Usability testing book)
 
 # My test case examples
 
