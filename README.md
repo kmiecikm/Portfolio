@@ -22,10 +22,13 @@ My name is **Magdalena Kmiecik**. I am a master of Civil Engineering. Recently I
 * [SQL](https://github.com/kmiecikm/SQL)
 * [API testing](https://github.com/kmiecikm/API-Testing)
 * Knowledge of UX/UI design
+
 # Certificates and Diplomas
+
 * [ISTQB Certficate](https://github.com/kmiecikm/Diplomas/blob/main/ISTQB%20Certificate_EN_Magda_Kmiecik.pdf)
 * [IT School Coders Lab Diploma](https://github.com/kmiecikm/Diplomas/blob/main/Magdalena%20Kmiecik%20-%20Diploma.pdf)
 * [uTest Academy](https://github.com/kmiecikm/Diplomas/blob/main/Graduating%20from%20the%20uTest%20Academy.pdf)
+* [uTest badges](https://github.com/kmiecikm/Diplomas/blob/main/Proven%20functional%20tester%20badge.pdf)
 * [Udemy](https://github.com/kmiecikm/Diplomas/blob/main/UX%20and%20UI%20Basics%20-%20Udemy%20Certifcate.pdf)
 
 # Books
