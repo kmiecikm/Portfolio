@@ -40,7 +40,7 @@ My name is **Magdalena Kmiecik**. I am a master of Civil Engineering. Recently I
 
 # My test case examples
 
-* [Test cases for Coders Guru](https://github.com/kmiecikm/Testing/tree/main/Test%20cases%20in%20testlink)
+* [Test cases for Coders Guru](https://github.com/kmiecikm/Testing/tree/main/Test%20cases%20in%20testlink/Coders%20Guru)
 
 # My test plans
 
