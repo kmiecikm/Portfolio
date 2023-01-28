@@ -28,7 +28,7 @@ My name is **Magdalena Kmiecik**. I am a master of Civil Engineering. Recently I
 * [ISTQB Certficate](https://github.com/kmiecikm/Diplomas/blob/main/ISTQB%20Certificate_EN_Magda_Kmiecik.pdf)
 * [IT School Coders Lab Diploma](https://github.com/kmiecikm/Diplomas/blob/main/Magdalena%20Kmiecik%20-%20Diploma.pdf)
 * [uTest Academy](https://github.com/kmiecikm/Diplomas/blob/main/Graduating%20from%20the%20uTest%20Academy.pdf)
-* [uTest badge](https://github.com/kmiecikm/Diplomas/blob/main/Bronze%20functional%20tester%20badge.pdf
+* [uTest badge](https://github.com/kmiecikm/Diplomas/blob/main/Bronze%20functional%20tester%20badge.pdf)
 * [Udemy](https://github.com/kmiecikm/Diplomas/blob/main/UX%20and%20UI%20Basics%20-%20Udemy%20Certifcate.pdf)
 
 # Books
